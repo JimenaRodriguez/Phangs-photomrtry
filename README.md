@@ -1,1 +1,1 @@
-# Phangs-photomrtry
+# Phangs-photometry
